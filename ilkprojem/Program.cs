@@ -10,7 +10,7 @@ namespace ilkprojem
         {
             Console.WriteLine("Lütfen kendinizi tanıtınız...");
             Console.WriteLine("Giriş yapan kullanıcı:" + Console.ReadLine());
-
+            Console.read();
         }
     }
 }
